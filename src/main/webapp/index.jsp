@@ -12,17 +12,17 @@
         <a href="#"><img src="images/logo.svg" alt="logo"></a>
     </nav>
     <div class="form-wrapper">
-    <h2>NETFLIX SIGN IN V-1.0</h2>
+    <h2>NETFLIX SIGN IN V-2.0</h2>
         <form action="#">
             <div class="form-control">
                 <input type="text" required>
-                <label> Mobile number</label>
+                <label> Contact number</label>
             </div>
             <div class="form-control">
                 <input type="password" required>
                 <label>SECRET</label>
             </div>
-            <button type="submit"> WELCOME TO NETFLIX V-8</button>
+            <button type="submit"> LOGIN TO NETFLIX V-8</button>
             <div class="form-help"> 
                 <div class="remember-me">
                     <input type="checkbox" id="remember-me">
